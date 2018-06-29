@@ -53,6 +53,36 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FVocalA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVocalA.Designer.cs">
+      <DependentUpon>FVocalA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FVocalE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVocalE.Designer.cs">
+      <DependentUpon>FVocalE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FVocalI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVocalI.Designer.cs">
+      <DependentUpon>FVocalI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FVocalO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVocalO.Designer.cs">
+      <DependentUpon>FVocalO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FVocalU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FVocalU.Designer.cs">
+      <DependentUpon>FVocalU.cs</DependentUpon>
+    </Compile>
     <Compile Include="Principal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +93,21 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVocalA.resx">
+      <DependentUpon>FVocalA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVocalE.resx">
+      <DependentUpon>FVocalE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVocalI.resx">
+      <DependentUpon>FVocalI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVocalO.resx">
+      <DependentUpon>FVocalO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FVocalU.resx">
+      <DependentUpon>FVocalU.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
